@@ -26,7 +26,7 @@ jobs:
 
     - name: Clone main
       run: |
-        git clone -b main https://github.com/764763903a/xdd.git main
+        git clone -b main https://github.com/764763903a/xdd-plus.git main
 
     - name: Push main
       uses: ad-m/github-push-action@master
